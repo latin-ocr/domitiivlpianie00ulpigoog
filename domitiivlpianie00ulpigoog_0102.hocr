@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./domitiivlpianie00ulpigoog_0102.png"; bbox 0 0 2534 3988; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 27 1175 876 1282">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 27 1111 876 1282">
+     <span class='ocr_line' id='line_1_1' title="bbox 27 1175 876 1282; baseline -0.006 1"><span class='ocrx_word' id='word_1_1' title='bbox 27 1199 30 1202; x_wconf 93' lang='lat'>·</span> <span class='ocrx_word' id='word_1_2' title='bbox 119 1191 120 1204; x_wconf 18' lang='grc' dir='ltr'>ψ</span> <span class='ocrx_word' id='word_1_3' title='bbox 300 1175 585 1282; x_wconf 79' lang='lat' dir='ltr'>DOMlTss</span> <span class='ocrx_word' id='word_1_4' title='bbox 604 1181 876 1281; x_wconf 83' lang='lat' dir='ltr'>VLPIANI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 149 1539 1103 1674">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 149 1539 1103 1674">
+     <span class='ocr_line' id='line_1_2' title="bbox 149 1539 1103 1674; baseline -0.006 -36"><span class='ocrx_word' id='word_1_5' title='bbox 149 1539 1103 1674; x_wconf 37' lang='lat' dir='ltr'><strong>INSTIT&#39;VTIONVM </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 349 1901 787 1986">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 349 1901 787 1986">
+     <span class='ocr_line' id='line_1_3' title="bbox 349 1901 787 1986; baseline -0.002 -19"><span class='ocrx_word' id='word_1_6' title='bbox 349 1905 351 1910; x_wconf 91' lang='lat'>·</span> <span class='ocrx_word' id='word_1_7' title='bbox 463 1901 715 1985; x_wconf 73' lang='lat' dir='ltr'>REMQVIAE</span> <span class='ocrx_word' id='word_1_8' title='bbox 784 1977 787 1986; x_wconf 56' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1272 3988">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1272 3988">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1272 3988; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1272 3988; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
